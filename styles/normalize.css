@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: #f8f3e6;
+    color: #4a4a4a;
+    overflow-x: hidden;
+  
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ffffff; 
+  }
+  
+  
+  
+  main {
+    color: #4a4a4a; 
+    padding-top: 15vh;
+  }
+
+  
+
+
+  
